@@ -1,0 +1,22 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Maven ###
+target/
+
+### Logs ###
+*.log
+logs/
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Environment ###
+.env
+.env.*
+
+### Generated ###
+*.class
